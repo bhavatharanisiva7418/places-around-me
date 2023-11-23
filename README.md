@@ -5,9 +5,17 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-Write the code appropirately.
+Create a Django admin Interface.
 ### Step 2:
-Run the code
+Download your city map from Google.
+### Step 3:
+usin```<map> tag name the map.
+### Step 4:
+Create clickable regions in the image using'''<area>```tag.
+### Step 5:
+Write the HTML program for all the region identified.
+### Step 6:
+Execute the program and publish there.
 ## Code:
 ```
 <!DOCTYPE html>
